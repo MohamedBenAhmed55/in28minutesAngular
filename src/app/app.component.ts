@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'new-todo';
+  message = 'Welcome to my todo app'
 }
